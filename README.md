@@ -27,6 +27,13 @@ Download the latest version from the **Releases** section.
 
 ---
 
+##⛔️ Important Note
+
+Requirements to instal my app : 
+
+* Windows 10/11
+* FFmpeg must be installed and available on the system for merging video and audio streams.
+
 ## 🛠️ Technologies
 
 - Python
