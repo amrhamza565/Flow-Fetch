@@ -56,6 +56,8 @@ After installing FFmpeg, restart FlowFetch and downloads will be automatically m
 
 Without FFmpeg, video and audio will be downloaded as separate files.
 
+this file will be found in **Releases Section** 
+
 ---
 
 ## 🛠️ Technologies
