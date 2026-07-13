@@ -13,7 +13,6 @@ A modern Windows application for downloading YouTube playlists and videos with a
 - 🎥 Download YouTube playlists
 - 📹 Download single YouTube videos
 - ⚡ Fast downloads powered by yt-dlp
-- 🎬 Automatic video/audio merging using FFmpeg
 - 📂 Automatically organize playlists into folders
 - 🎯 Choose download quality (1080p / 720p / 480p)
 - 💾 Save user settings
