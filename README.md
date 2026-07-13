@@ -28,10 +28,33 @@ Download the latest version from the **Releases** section.
 
 ##⛔️ Important Note
 
-Requirements to instal my app : 
+📥 Before Using FlowFetch
 
-* Windows 10/11
-* FFmpeg must be installed and available on the system for merging video and audio streams.
+FlowFetch requires FFmpeg to merge video and audio into a single MP4 file.
+
+Step 1 – Install FFmpeg
+
+Download the Essentials Build from:
+
+https://www.gyan.dev/ffmpeg/builds/
+
+Download:
+
+ffmpeg-release-essentials.zip
+
+Step 2 – Extract the archive
+
+Extract the ZIP file to any location.
+
+Step 3 – Add FFmpeg to Windows PATH
+
+Add the bin folder (which contains ffmpeg.exe and ffprobe.exe) to your Windows PATH.
+
+Step 4 – Restart FlowFetch
+
+After installing FFmpeg, restart FlowFetch and downloads will be automatically merged into a single MP4 file.
+
+Without FFmpeg, video and audio will be downloaded as separate files.
 
 ---
 
