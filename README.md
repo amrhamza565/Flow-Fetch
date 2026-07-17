@@ -30,7 +30,7 @@ Download the latest version from the **Releases** section.
 
 📥 Before Using FlowFetch
 
-FlowFetch requires FFmpeg to merge video and audio into a single MP4 file.
+1 - FlowFetch requires FFmpeg to merge video and audio into a single MP4 file.
 
 Step 1 – Install FFmpeg
 
@@ -58,6 +58,8 @@ Without FFmpeg, video and audio will be downloaded as separate files.
 
 this file will be found in **Releases Section** 
 
+
+2 - When launching the application for the first time, Windows may display a SmartScreen warning such as "Windows protected your PC". This is expected because the application is not digitally code-signed. It does not mean the application is malicious. The application is safe to use if downloaded from the official source. If you see this warning, click "More info" then click "Run anyway". Thank you for your understanding and support.
 ---
 
 ## 🛠️ Technologies
